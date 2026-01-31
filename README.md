@@ -1,4 +1,4 @@
-# internship # 
+# Innomatics-hackathon-2026 # 
 Food Delivery Analytics - Data Integration & Analysis
 
 ## 🎯 Project Description
