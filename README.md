@@ -201,11 +201,11 @@ This Food Delivery Analytics project demonstrates a practical, scalable approach
 
 ---
 
-**Developed by**: [Your Name]  
-**GitHub**: [Your Profile]  
-**LinkedIn**: [Your Profile]  
-**Email**: [Your Email]
+**Developed by**: Nuthi Akshaya  
+**GitHub**: github.com/in/nuthiakshaya 
+**LinkedIn**: linkdein/akshaya-noothi-19aa93253 
+**Email**: nuthiakshaya.ai@gmail.com
 
 ---
 
-*This project represents my commitment to data excellence and continuous learning in the field of data engineering and analytics.*
+
